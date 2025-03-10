@@ -1,4 +1,3 @@
-<!-- SPDX-License-Identifier: Apache-2.0 -->
 # CAR-Integrated Service Mesh Architecture
 
 The `CAR-Integrated Service Mesh Architecture` aims to enable a flexible (re-)deployment of software services within a
@@ -12,6 +11,15 @@ This repository contains our prototypical implementation as well as additional t
 
 We welcome any contributions.  If you want to contribute to this
 project, please read the [contributing guide](CONTRIBUTING.md).
+
+## Contact
+
+If you find any problems related to this project or have any
+questions, please open an
+[issue](https://github.com/mercedes-benz/car-integrated-service-mesh-architecture/issues)
+or join a
+[discussion](https://github.com/mercedes-benz/car-integrated-service-mesh-architecture/discussions)
+on github.
 
 ## Code of Conduct
 
