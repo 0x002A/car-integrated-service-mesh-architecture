@@ -43,4 +43,4 @@ Climate Action](https://www.bmwk.de/).
 
 ## License
 
-This project is licensed under the [APACHE LICENSE, VERSION 2.0](LICENSE.md).
+This project is licensed under the [MIT license](LICENSE.md).
